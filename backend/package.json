@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "basic backend app",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "start":"node server.js"
+  },
+  "author": "dixita",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
